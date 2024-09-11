@@ -32,3 +32,6 @@ Credits: Thank you to Magnet VFX for creating the original tutorial and inspirin
 Most of the unuploaded files are either Megascans,assests or Movie Render queues,Renders.
 Will be figuring out a way to upload the heavy files.
 Total file size - 28gb 
+
+The project file is turned into a code .
+Stay tuned for the Complete file.
