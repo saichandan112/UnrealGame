@@ -28,3 +28,7 @@ Additional Information
 
 Tutorial Link: https://youtu.be/7ucu1ngRxR4?si=lANZ7ggEdLzH-PbA
 Credits: Thank you to Magnet VFX for creating the original tutorial and inspiring this project.
+
+Most of the unuploaded files are either Megascans,assests or Movie Render queues,Renders.
+Will be figuring out a way to upload the heavy files.
+Total file size -  
